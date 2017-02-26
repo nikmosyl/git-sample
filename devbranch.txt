@@ -1,1 +1,2 @@
 Eto file dlya prorabotki vetki "dev"
+Это строка на русском языке
