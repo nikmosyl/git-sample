@@ -8,5 +8,5 @@ git clone https://github.com/you_account/your_project		//клонируем ре
 git add your_file.ras						//индексируем файл (с расширением .ras в данном примере)
 git commit -m "Добавлен файл your_file.ras"			//добавляем коммит с данным коментарием
 
-git remove -v							//показывает все облачные репозитории
+git remote -v							//показывает все облачные репозитории
 git push origin master						//заливаем коммит на облачный репозиторий
